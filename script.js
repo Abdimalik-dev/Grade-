@@ -1,4 +1,4 @@
-const grade = 85;
+const grade = 45;
 
 if (grade >= 90 && 100) {
     console.log('you got an A grade');
@@ -6,6 +6,6 @@ if (grade >= 90 && 100) {
     console.log('You got an B grade');
 }else if  (grade >= 50 && 60 ){
     console.log('You got C grade');
-}  else   (grade <= 45) {
+}  else {
     console.log('You got an Failed');
 }
