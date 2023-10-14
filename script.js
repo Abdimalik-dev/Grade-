@@ -6,6 +6,6 @@ if (grade >= 90 && 100) {
     console.log('You got an B grade');
 }else if  (grade >= 50 && 60 ){
     console.log('You got C grade');
-}  else if  (grade <= 45) {
+}  else   (grade <= 45) {
     console.log('You got an Failed');
 }
